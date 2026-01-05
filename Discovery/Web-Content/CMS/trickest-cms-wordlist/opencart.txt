@@ -2363,6 +2363,7 @@ upload/assets/framework/library/loader.js
 upload/assets/framework/library/currency.js
 upload/assets/framework/library/storage.js
 upload/assets/framework/library/session.js
+upload/assets/framework/library/customer.js
 upload/assets/framework/library/config.js
 upload/assets/framework/library/language.js
 upload/assets/framework/library/local.js
@@ -7900,6 +7901,7 @@ upload/admin/view/javascript/catalog/manufacturer.js
 upload/admin/view/javascript/catalog/information.js
 upload/admin/view/javascript/catalog/product.js
 upload/admin/view/javascript/catalog/download.js
+upload/admin/view/javascript/component.js
 upload/admin/view/javascript/design/translation.js
 upload/admin/view/javascript/design/banner.js
 upload/admin/view/javascript/design/theme.js
@@ -7927,7 +7929,6 @@ upload/admin/view/javascript/common/authorize.js
 upload/admin/view/javascript/localisation/tax_class.js
 upload/admin/view/javascript/localisation/geo_zone.s.js
 upload/admin/view/javascript/localisation/country.js
-upload/admin/view/javascript/framework.js
 upload/admin/view/javascript/layout.js
 upload/admin/view/javascript/customer/customer_approval.js
 upload/admin/view/javascript/customer/gdpr.js
